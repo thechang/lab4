@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  code: MyString
+  date: 2011-02-17
+  client_id: 1
+  amount: 1
+
+two:
+  code: MyString
+  date: 2011-02-17
+  client_id: 1
+  amount: 1
